@@ -1,0 +1,5 @@
+{
+    "prefix": "your prefix",
+    "description": "your bot description",
+    "owner_ids": [123456789]
+}
